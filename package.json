@@ -1,6 +1,6 @@
 {
   "name": "@veloze/access-control",
-  "version": "1.0.0-0",
+  "version": "1.0.0",
   "description": "Middleware for access-control using @casl/ability",
   "homepage": "http://github.com/commenthol/veloze-access-control",
   "keywords": [
