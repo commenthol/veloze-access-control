@@ -1,3 +1,6 @@
+[![npm-badge][npm-badge]][npm]
+![types-badge][types-badge]
+
 # @veloze/access-control
 
 > attribute- or role-based access control
@@ -5,10 +8,6 @@
 Works on any connect based routers, like [express][], [veloze][].
 
 Uses [@casl/ability][casl-ability].
-
-[express]: https://expressjs.com
-[veloze]: https://github.com/commenthol/veloze
-[casl-ability]: https://casl.js.org
 
 ## usage
 
@@ -69,3 +68,13 @@ router.post('/articles',
 ## license
 
 MIT
+
+[npm-badge]: https://badgen.net/npm/v/@veloze/access-control
+[npm]: https://www.npmjs.com/package/@veloze/access-control
+[types-badge]: https://badgen.net/npm/types/@veloze/access-control
+[actions-badge]: https://github.com/commenthol/veloze-access-control/workflows/CI/badge.svg?branch=main&event=push
+[actions]: https://github.com/commenthol/veloze-access-control/actions/workflows/ci.yml?query=branch%3Amain
+[express]: https://expressjs.com
+[veloze]: https://github.com/commenthol/veloze
+[casl-ability]: https://casl.js.org
+
